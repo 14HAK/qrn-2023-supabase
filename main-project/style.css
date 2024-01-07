@@ -1,0 +1,1969 @@
+* {
+  margin: 0px;
+  outline: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  border: 0px;
+}
+
+
+/* ayat page Mazor..... */
+.fontFamily1 {
+  font-family: 'QCF2001';
+}
+.fontFamily2 {
+  font-family: 'QCF2002';
+}
+.fontFamily3 {
+  font-family: 'QCF2003';
+}
+.fontFamily4 {
+  font-family: 'QCF2004';
+}
+.fontFamily5 {
+  font-family: 'QCF2005';
+}
+.fontFamily6 {
+  font-family: 'QCF2006';
+}
+.fontFamily7 {
+  font-family: 'QCF2007';
+}
+.fontFamily8 {
+  font-family: 'QCF2008';
+}
+.fontFamily9 {
+  font-family: 'QCF2009';
+}
+.fontFamily10 {
+  font-family: 'QCF2010';
+}
+.fontFamily11 {
+  font-family: 'QCF2011';
+}
+.fontFamily12 {
+  font-family: 'QCF2012';
+}
+.fontFamily13 {
+  font-family: 'QCF2013';
+}
+.fontFamily14 {
+  font-family: 'QCF2014';
+}
+.fontFamily15 {
+  font-family: 'QCF2015';
+}
+.fontFamily16 {
+  font-family: 'QCF2016';
+}
+.fontFamily17 {
+  font-family: 'QCF2017';
+}
+.fontFamily18 {
+  font-family: 'QCF2018';
+}
+.fontFamily19 {
+  font-family: 'QCF2019';
+}
+.fontFamily20 {
+  font-family: 'QCF2020';
+}
+.fontFamily21 {
+  font-family: 'QCF2021';
+}
+.fontFamily22 {
+  font-family: 'QCF2022';
+}
+.fontFamily23 {
+  font-family: 'QCF2023';
+}
+.fontFamily24 {
+  font-family: 'QCF2024';
+}
+.fontFamily25 {
+  font-family: 'QCF2025';
+}
+.fontFamily26 {
+  font-family: 'QCF2026';
+}
+.fontFamily27 {
+  font-family: 'QCF2027';
+}
+.fontFamily28 {
+  font-family: 'QCF2028';
+}
+.fontFamily29 {
+  font-family: 'QCF2029';
+}
+.fontFamily30 {
+  font-family: 'QCF2030';
+}
+.fontFamily31 {
+  font-family: 'QCF2031';
+}
+.fontFamily32 {
+  font-family: 'QCF2032';
+}
+.fontFamily33 {
+  font-family: 'QCF2033';
+}
+.fontFamily34 {
+  font-family: 'QCF2034';
+}
+.fontFamily35 {
+  font-family: 'QCF2035';
+}
+.fontFamily36 {
+  font-family: 'QCF2036';
+}
+.fontFamily37 {
+  font-family: 'QCF2037';
+}
+.fontFamily38 {
+  font-family: 'QCF2038';
+}
+.fontFamily39 {
+  font-family: 'QCF2039';
+}
+.fontFamily40 {
+  font-family: 'QCF2040';
+}
+.fontFamily41 {
+  font-family: 'QCF2041';
+}
+.fontFamily42 {
+  font-family: 'QCF2042';
+}
+.fontFamily43 {
+  font-family: 'QCF2043';
+}
+.fontFamily44 {
+  font-family: 'QCF2044';
+}
+.fontFamily45 {
+  font-family: 'QCF2045';
+}
+.fontFamily46 {
+  font-family: 'QCF2046';
+}
+.fontFamily47 {
+  font-family: 'QCF2047';
+}
+.fontFamily48 {
+  font-family: 'QCF2048';
+}
+.fontFamily49 {
+  font-family: 'QCF2049';
+}
+
+.fontFamily50 {
+  font-family: 'QCF2050';
+}
+.fontFamily51 {
+  font-family: 'QCF2051';
+}
+.fontFamily52 {
+  font-family: 'QCF2052';
+}
+.fontFamily53 {
+  font-family: 'QCF2053';
+}
+.fontFamily54 {
+  font-family: 'QCF2054';
+}
+.fontFamily55 {
+  font-family: 'QCF2055';
+}
+.fontFamily56 {
+  font-family: 'QCF2056';
+}
+.fontFamily57 {
+  font-family: 'QCF2057';
+}
+.fontFamily58 {
+  font-family: 'QCF2058';
+}
+.fontFamily59 {
+  font-family: 'QCF2059';
+}
+.fontFamily60 {
+  font-family: 'QCF2060';
+}
+.fontFamily61 {
+  font-family: 'QCF2061';
+}
+.fontFamily62 {
+  font-family: 'QCF2062';
+}
+.fontFamily63 {
+  font-family: 'QCF2063';
+}
+.fontFamily64 {
+  font-family: 'QCF2064';
+}
+.fontFamily65 {
+  font-family: 'QCF2065';
+}
+.fontFamily66 {
+  font-family: 'QCF2066';
+}
+.fontFamily67 {
+  font-family: 'QCF2067';
+}
+.fontFamily68 {
+  font-family: 'QCF2068';
+}
+.fontFamily69 {
+  font-family: 'QCF2069';
+}
+.fontFamily70 {
+  font-family: 'QCF2070';
+}
+.fontFamily71 {
+  font-family: 'QCF2071';
+}
+.fontFamily72 {
+  font-family: 'QCF2072';
+}
+.fontFamily73 {
+  font-family: 'QCF2073';
+}
+.fontFamily74 {
+  font-family: 'QCF2074';
+}
+.fontFamily75 {
+  font-family: 'QCF2075';
+}
+.fontFamily76 {
+  font-family: 'QCF2076';
+}
+.fontFamily77 {
+  font-family: 'QCF2077';
+}
+.fontFamily78 {
+  font-family: 'QCF2078';
+}
+.fontFamily79 {
+  font-family: 'QCF2079';
+}
+.fontFamily80 {
+  font-family: 'QCF2080';
+}
+.fontFamily81 {
+  font-family: 'QCF2081';
+}
+.fontFamily82 {
+  font-family: 'QCF2082';
+}
+.fontFamily83 {
+  font-family: 'QCF2083';
+}
+.fontFamily84 {
+  font-family: 'QCF2084';
+}
+.fontFamily85 {
+  font-family: 'QCF2085';
+}
+.fontFamily86 {
+  font-family: 'QCF2086';
+}
+.fontFamily87 {
+  font-family: 'QCF2087';
+}
+.fontFamily88 {
+  font-family: 'QCF2088';
+}
+.fontFamily89 {
+  font-family: 'QCF2089';
+}
+.fontFamily90 {
+  font-family: 'QCF2090';
+}
+.fontFamily91 {
+  font-family: 'QCF2091';
+}
+.fontFamily92 {
+  font-family: 'QCF2092';
+}
+.fontFamily93 {
+  font-family: 'QCF2093';
+}
+.fontFamily94 {
+  font-family: 'QCF2094';
+}
+.fontFamily95 {
+  font-family: 'QCF2095';
+}
+.fontFamily96 {
+  font-family: 'QCF2096';
+}
+.fontFamily97 {
+  font-family: 'QCF2097';
+}
+.fontFamily98 {
+  font-family: 'QCF2098';
+}
+.fontFamily99 {
+  font-family: 'QCF2099';
+}
+.fontFamily100 {
+  font-family: 'QCF2100';
+}
+.fontFamily101 {
+  font-family: 'QCF2101';
+}
+.fontFamily102 {
+  font-family: 'QCF2102';
+}
+.fontFamily103 {
+  font-family: 'QCF2103';
+}
+.fontFamily104 {
+  font-family: 'QCF2104';
+}
+.fontFamily105 {
+  font-family: 'QCF2105';
+}
+.fontFamily106{
+  font-family: 'QCF2106';
+}
+.fontFamily107{
+  font-family: 'QCF2107';
+}
+.fontFamily108{
+  font-family: 'QCF2108';
+}
+.fontFamily109{
+  font-family: 'QCF2109';
+}
+.fontFamily110{
+  font-family: 'QCF2110';
+}
+.fontFamily111{
+  font-family: 'QCF2111';
+}
+.fontFamily112{
+  font-family: 'QCF2112';
+}
+.fontFamily113{
+  font-family: 'QCF2113';
+}
+.fontFamily114{
+  font-family: 'QCF2114';
+}
+.fontFamily115{
+  font-family: 'QCF2115';
+}
+.fontFamily116{
+  font-family: 'QCF2116';
+}
+.fontFamily117{
+  font-family: 'QCF2117';
+}
+.fontFamily118{
+  font-family: 'QCF2118';
+}
+.fontFamily119{
+  font-family: 'QCF2119';
+}
+.fontFamily120{
+  font-family: 'QCF2120';
+}
+.fontFamily121{
+  font-family: 'QCF2121';
+}
+.fontFamily122{
+  font-family: 'QCF2122';
+}
+.fontFamily123{
+  font-family: 'QCF2123';
+}
+.fontFamily124{
+  font-family: 'QCF2124';
+}
+.fontFamily125{
+  font-family: 'QCF2125';
+}
+.fontFamily126{
+  font-family: 'QCF2126';
+}
+.fontFamily127{
+  font-family: 'QCF2127';
+}
+.fontFamily128{
+  font-family: 'QCF2128';
+}
+.fontFamily129{
+  font-family: 'QCF2129';
+}
+.fontFamily130{
+  font-family: 'QCF2130';
+}
+.fontFamily131{
+  font-family: 'QCF2131';
+}
+.fontFamily132{
+  font-family: 'QCF2132';
+}
+.fontFamily133 {
+  font-family: 'QCF2133';
+}
+.fontFamily134{
+  font-family: 'QCF2134';
+}
+.fontFamily135{
+  font-family: 'QCF2135';
+}
+.fontFamily136{
+  font-family: 'QCF2136';
+}
+.fontFamily137{
+  font-family: 'QCF2137';
+}
+.fontFamily138{
+  font-family: 'QCF2138';
+}
+.fontFamily139{
+  font-family: 'QCF2139';
+}
+.fontFamily140{
+  font-family: 'QCF2140';
+}
+.fontFamily141{
+  font-family: 'QCF2141';
+}
+.fontFamily142{
+  font-family: 'QCF2142';
+}
+.fontFamily143{
+  font-family: 'QCF2143';
+}
+.fontFamily144{
+  font-family: 'QCF2144';
+}
+.fontFamily145{
+  font-family: 'QCF2145';
+}
+.fontFamily146{
+  font-family: 'QCF2146';
+}
+.fontFamily147{
+  font-family: 'QCF2147';
+}
+.fontFamily148{
+  font-family: 'QCF2148';
+}
+.fontFamily149{
+  font-family: 'QCF2149';
+}
+.fontFamily150{
+  font-family: 'QCF2150';
+}
+.fontFamily151{
+  font-family: 'QCF2151';
+}
+.fontFamily152{
+  font-family: 'QCF2152';
+}
+.fontFamily153{
+  font-family: 'QCF2153';
+}
+.fontFamily154{
+  font-family: 'QCF2154';
+}
+.fontFamily155{
+  font-family: 'QCF2155';
+}
+.fontFamily156{
+  font-family: 'QCF2156';
+}
+.fontFamily157{
+  font-family: 'QCF2157';
+}
+.fontFamily158{
+  font-family: 'QCF2158';
+}
+.fontFamily159{
+  font-family: 'QCF2159';
+}
+.fontFamily160{
+  font-family: 'QCF2160';
+}
+.fontFamily161{
+  font-family: 'QCF2161';
+}
+.fontFamily162{
+  font-family: 'QCF2162';
+}
+.fontFamily163{
+  font-family: 'QCF2163';
+}
+.fontFamily164{
+  font-family: 'QCF2164';
+}
+
+
+.fontFamily165{
+  font-family: 'QCF2165';
+}
+.fontFamily166{
+  font-family: 'QCF2166';
+}
+.fontFamily167{
+  font-family: 'QCF2167';
+}
+.fontFamily168{
+  font-family: 'QCF2168';
+}
+.fontFamily169{
+  font-family: 'QCF2169';
+}
+.fontFamily170{
+  font-family: 'QCF2170';
+}
+.fontFamily171{
+  font-family: 'QCF2171';
+}
+.fontFamily172{
+  font-family: 'QCF2172';
+}
+.fontFamily173{
+  font-family: 'QCF2173';
+}
+.fontFamily174{
+  font-family: 'QCF2174';
+}
+.fontFamily175{
+  font-family: 'QCF2175';
+}
+.fontFamily176{
+  font-family: 'QCF2176';
+}
+.fontFamily177{
+  font-family: 'QCF2177';
+}
+.fontFamily178{
+  font-family: 'QCF2178';
+}
+.fontFamily179{
+  font-family: 'QCF2179';
+}
+.fontFamily180{
+  font-family: 'QCF2180';
+}
+.fontFamily181{
+  font-family: 'QCF2181';
+}
+.fontFamily182{
+  font-family: 'QCF2182';
+}
+.fontFamily183{
+  font-family: 'QCF2183';
+}
+.fontFamily184{
+  font-family: 'QCF2184';
+}
+.fontFamily185{
+  font-family: 'QCF2185';
+}
+.fontFamily186{
+  font-family: 'QCF2186';
+}
+.fontFamily187{
+  font-family: 'QCF2187';
+}
+.fontFamily188{
+  font-family: 'QCF2188';
+}
+.fontFamily189{
+  font-family: 'QCF2189';
+}
+.fontFamily190{
+  font-family: 'QCF2190';
+}
+.fontFamily191{
+  font-family: 'QCF2191';
+}
+.fontFamily192{
+  font-family: 'QCF2192';
+}
+.fontFamily193{
+  font-family: 'QCF2193';
+}
+.fontFamily194{
+  font-family: 'QCF2194';
+}
+.fontFamily195{
+  font-family: 'QCF2195';
+}
+.fontFamily196{
+  font-family: 'QCF2196';
+}
+.fontFamily197{
+  font-family: 'QCF2197';
+}
+.fontFamily198{
+  font-family: 'QCF2198';
+}
+.fontFamily199{
+  font-family: 'QCF2199';
+}
+
+.fontFamily200{
+  font-family: 'QCF2200';
+}
+.fontFamily201{
+  font-family: 'QCF2201';
+}
+.fontFamily202{
+  font-family: 'QCF2202';
+}
+.fontFamily203{
+  font-family: 'QCF2203';
+}
+.fontFamily204{
+  font-family: 'QCF2204';
+}
+.fontFamily205{
+  font-family: 'QCF2205';
+}
+.fontFamily206{
+  font-family: 'QCF2206';
+}
+.fontFamily207{
+  font-family: 'QCF2207';
+}
+.fontFamily208{
+  font-family: 'QCF2208';
+}
+.fontFamily209{
+  font-family: 'QCF2209';
+}
+.fontFamily210{
+  font-family: 'QCF2210';
+}
+.fontFamily211{
+  font-family: 'QCF2211';
+}
+.fontFamily212{
+  font-family: 'QCF2212';
+}
+.fontFamily213{
+  font-family: 'QCF2213';
+}
+.fontFamily214{
+  font-family: 'QCF2214';
+}
+.fontFamily215{
+  font-family: 'QCF2215';
+}
+.fontFamily216{
+  font-family: 'QCF2216';
+}
+.fontFamily217{
+  font-family: 'QCF2217';
+}
+.fontFamily218{
+  font-family: 'QCF2218';
+}
+.fontFamily219{
+  font-family: 'QCF2219';
+}
+.fontFamily220{
+  font-family: 'QCF2220';
+}
+.fontFamily221{
+  font-family: 'QCF2221';
+}
+.fontFamily222{
+  font-family: 'QCF2222';
+}
+.fontFamily223{
+  font-family: 'QCF2223';
+}
+.fontFamily224{
+  font-family: 'QCF2224';
+}
+.fontFamily225{
+  font-family: 'QCF2225';
+}
+.fontFamily226{
+  font-family: 'QCF2226';
+}
+.fontFamily227{
+  font-family: 'QCF2227';
+}
+.fontFamily228{
+  font-family: 'QCF2228';
+}
+.fontFamily229{
+  font-family: 'QCF2229';
+}
+.fontFamily230{
+  font-family: 'QCF2230';
+}
+
+.fontFamily230{
+  font-family: 'QCF2230';
+}
+.fontFamily232{
+  font-family: 'QCF2232';
+}
+.fontFamily233{
+  font-family: 'QCF2233';
+}
+.fontFamily234{
+  font-family: 'QCF2234';
+}
+.fontFamily235{
+  font-family: 'QCF2235';
+}
+.fontFamily236{
+  font-family: 'QCF2236';
+}
+.fontFamily237{
+  font-family: 'QCF2237';
+}
+.fontFamily238{
+  font-family: 'QCF2238';
+}
+.fontFamily239{
+  font-family: 'QCF2239';
+}
+.fontFamily240{
+  font-family: 'QCF2240';
+}
+.fontFamily241{
+  font-family: 'QCF2241';
+}
+.fontFamily242{
+  font-family: 'QCF2242';
+}
+.fontFamily243{
+  font-family: 'QCF2243';
+}
+.fontFamily244{
+  font-family: 'QCF2244';
+}
+.fontFamily245{
+  font-family: 'QCF2245';
+}
+.fontFamily246{
+  font-family: 'QCF2246';
+}
+.fontFamily247{
+  font-family: 'QCF2247';
+}
+.fontFamily248{
+  font-family: 'QCF2248';
+}
+.fontFamily249{
+  font-family: 'QCF2249';
+}
+.fontFamily250{
+  font-family: 'QCF2250';
+}
+.fontFamily251{
+  font-family: 'QCF2251';
+}
+
+
+.fontFamily252{
+  font-family: 'QCF2252';
+}
+.fontFamily253{
+  font-family: 'QCF2253';
+}
+.fontFamily254{
+  font-family: 'QCF2254';
+}
+.fontFamily255{
+  font-family: 'QCF2255';
+}
+.fontFamily256{
+  font-family: 'QCF2256';
+}
+.fontFamily257{
+  font-family: 'QCF2257';
+}
+.fontFamily258{
+  font-family: 'QCF2258';
+}
+.fontFamily259{
+  font-family: 'QCF2259';
+}
+.fontFamily260{
+  font-family: 'QCF2260';
+}
+.fontFamily261{
+  font-family: 'QCF2261';
+}
+.fontFamily262{
+  font-family: 'QCF2262';
+}
+.fontFamily263{
+  font-family: 'QCF2263';
+}
+.fontFamily264{
+  font-family: 'QCF2264';
+}
+.fontFamily265{
+  font-family: 'QCF2265';
+}
+.fontFamily266{
+  font-family: 'QCF2266';
+}
+.fontFamily267{
+  font-family: 'QCF2267';
+}
+.fontFamily268{
+  font-family: 'QCF2268';
+}
+.fontFamily269{
+  font-family: 'QCF2269';
+}
+.fontFamily270{
+  font-family: 'QCF2270';
+}
+.fontFamily271{
+  font-family: 'QCF2271';
+}
+.fontFamily272{
+  font-family: 'QCF2272';
+}
+.fontFamily273{
+  font-family: 'QCF2273';
+}
+.fontFamily274{
+  font-family: 'QCF2274';
+}
+.fontFamily275{
+  font-family: 'QCF2275';
+}
+.fontFamily276{
+  font-family: 'QCF2276';
+}
+.fontFamily277{
+  font-family: 'QCF2277';
+}
+.fontFamily278{
+  font-family: 'QCF2278';
+}
+.fontFamily279{
+  font-family: 'QCF2279';
+}
+.fontFamily280{
+  font-family: 'QCF2280';
+}
+.fontFamily281{
+  font-family: 'QCF2281';
+}
+.fontFamily282{
+  font-family: 'QCF2282';
+}
+.fontFamily283{
+  font-family: 'QCF2283';
+}
+.fontFamily284{
+  font-family: 'QCF2284';
+}
+.fontFamily285{
+  font-family: 'QCF2285';
+}
+.fontFamily286{
+  font-family: 'QCF2286';
+}
+.fontFamily287{
+  font-family: 'QCF2287';
+}
+.fontFamily288{
+  font-family: 'QCF2288';
+}
+.fontFamily289{
+  font-family: 'QCF2289';
+}
+.fontFamily290{
+  font-family: 'QCF2290';
+}
+.fontFamily291{
+  font-family: 'QCF2291';
+}
+.fontFamily292{
+  font-family: 'QCF2292';
+}
+.fontFamily293{
+  font-family: 'QCF2293';
+}
+.fontFamily294{
+  font-family: 'QCF2294';
+}
+.fontFamily295{
+  font-family: 'QCF2295';
+}
+.fontFamily296{
+  font-family: 'QCF2296';
+}
+.fontFamily297{
+  font-family: 'QCF2297';
+}
+.fontFamily298{
+  font-family: 'QCF2298';
+}
+.fontFamily299{
+  font-family: 'QCF2299';
+}
+.fontFamily300{
+  font-family: 'QCF2300';
+}
+
+
+.fontFamily301{
+  font-family: 'QCF2301';
+}
+.fontFamily302{
+  font-family: 'QCF2302';
+}
+.fontFamily303{
+  font-family: 'QCF2303';
+}
+.fontFamily304{
+  font-family: 'QCF2304';
+}
+.fontFamily305{
+  font-family: 'QCF2305';
+}
+.fontFamily306{
+  font-family: 'QCF2306';
+}
+.fontFamily307{
+  font-family: 'QCF2307';
+}
+.fontFamily308{
+  font-family: 'QCF2308';
+}
+.fontFamily309{
+  font-family: 'QCF2309';
+}
+.fontFamily310{
+  font-family: 'QCF2310';
+}
+.fontFamily311{
+  font-family: 'QCF2311';
+}
+.fontFamily312{
+  font-family: 'QCF2312';
+}
+.fontFamily313{
+  font-family: 'QCF2313';
+}
+.fontFamily314{
+  font-family: 'QCF2314';
+}
+.fontFamily315{
+  font-family: 'QCF2315';
+}
+.fontFamily316{
+  font-family: 'QCF2316';
+}
+.fontFamily317{
+  font-family: 'QCF2317';
+}
+.fontFamily318{
+  font-family: 'QCF2318';
+}
+.fontFamily319{
+  font-family: 'QCF2319';
+}
+.fontFamily320{
+  font-family: 'QCF2320';
+}
+.fontFamily321{
+  font-family: 'QCF2321';
+}
+.fontFamily322{
+  font-family: 'QCF2322';
+}
+.fontFamily323{
+  font-family: 'QCF2323';
+}
+.fontFamily324{
+  font-family: 'QCF2324';
+}
+.fontFamily325{
+  font-family: 'QCF2325';
+}
+.fontFamily326{
+  font-family: 'QCF2326';
+}
+.fontFamily327{
+  font-family: 'QCF2327';
+}
+.fontFamily328{
+  font-family: 'QCF2328';
+}
+.fontFamily329{
+  font-family: 'QCF2329';
+}
+.fontFamily330{
+  font-family: 'QCF2330';
+}
+.fontFamily331{
+  font-family: 'QCF2331';
+}
+.fontFamily332{
+  font-family: 'QCF2332';
+}
+.fontFamily333{
+  font-family: 'QCF2333';
+}
+.fontFamily334{
+  font-family: 'QCF2334';
+}
+.fontFamily335{
+  font-family: 'QCF2335';
+}
+.fontFamily336{
+  font-family: 'QCF2336';
+}
+.fontFamily337{
+  font-family: 'QCF2337';
+}
+.fontFamily338{
+  font-family: 'QCF2338';
+}
+.fontFamily339{
+  font-family: 'QCF2339';
+}
+.fontFamily340{
+  font-family: 'QCF2340';
+}
+.fontFamily341{
+  font-family: 'QCF2341';
+}
+.fontFamily342{
+  font-family: 'QCF2342';
+}
+.fontFamily343{
+  font-family: 'QCF2343';
+}
+.fontFamily344{
+  font-family: 'QCF2344';
+}
+.fontFamily345{
+  font-family: 'QCF2345';
+}
+.fontFamily346{
+  font-family: 'QCF2346';
+}
+.fontFamily347{
+  font-family: 'QCF2347';
+}
+.fontFamily348{
+  font-family: 'QCF2348';
+}
+.fontFamily349{
+  font-family: 'QCF2349';
+}
+.fontFamily350{
+  font-family: 'QCF2350';
+}
+.fontFamily351{
+  font-family: 'QCF2351';
+}
+.fontFamily352{
+  font-family: 'QCF2352';
+}
+.fontFamily353{
+  font-family: 'QCF2353';
+}
+.fontFamily354{
+  font-family: 'QCF2354';
+}
+.fontFamily355{
+  font-family: 'QCF2355';
+}
+.fontFamily356{
+  font-family: 'QCF2356';
+}
+.fontFamily357{
+  font-family: 'QCF2357';
+}
+.fontFamily358{
+  font-family: 'QCF2358';
+}
+.fontFamily359{
+  font-family: 'QCF2359';
+}
+.fontFamily360{
+  font-family: 'QCF2360';
+}
+.fontFamily361{
+  font-family: 'QCF2361';
+}
+.fontFamily362{
+  font-family: 'QCF2362';
+}
+.fontFamily363{
+  font-family: 'QCF2363';
+}
+.fontFamily364{
+  font-family: 'QCF2364';
+}
+.fontFamily365{
+  font-family: 'QCF2365';
+}
+.fontFamily366{
+  font-family: 'QCF2366';
+}
+.fontFamily367{
+  font-family: 'QCF2367';
+}
+.fontFamily368{
+  font-family: 'QCF2368';
+}
+.fontFamily369{
+  font-family: 'QCF2369';
+}
+.fontFamily370{
+  font-family: 'QCF2370';
+}
+.fontFamily371{
+  font-family: 'QCF2371';
+}
+.fontFamily372{
+  font-family: 'QCF2372';
+}
+.fontFamily373{
+  font-family: 'QCF2373';
+}
+.fontFamily374{
+  font-family: 'QCF2374';
+}
+.fontFamily375{
+  font-family: 'QCF2375';
+}
+.fontFamily376{
+  font-family: 'QCF2376';
+}
+.fontFamily377{
+  font-family: 'QCF2377';
+}
+.fontFamily378{
+  font-family: 'QCF2378';
+}
+.fontFamily379{
+  font-family: 'QCF2379';
+}
+.fontFamily380{
+  font-family: 'QCF2380';
+}
+.fontFamily381{
+  font-family: 'QCF2381';
+}
+.fontFamily382{
+  font-family: 'QCF2382';
+}
+.fontFamily383{
+  font-family: 'QCF2383';
+}
+.fontFamily384{
+  font-family: 'QCF2384';
+}
+.fontFamily385{
+  font-family: 'QCF2385';
+}
+.fontFamily386{
+  font-family: 'QCF2386';
+}
+.fontFamily387{
+  font-family: 'QCF2387';
+}
+.fontFamily388{
+  font-family: 'QCF2388';
+}
+.fontFamily389{
+  font-family: 'QCF2389';
+}
+.fontFamily390{
+  font-family: 'QCF2390';
+}
+.fontFamily391{
+  font-family: 'QCF2391';
+}
+.fontFamily392{
+  font-family: 'QCF2392';
+}
+.fontFamily393{
+  font-family: 'QCF2393';
+}
+.fontFamily394{
+  font-family: 'QCF2394';
+}
+.fontFamily395{
+  font-family: 'QCF2395';
+}
+.fontFamily396{
+  font-family: 'QCF2396';
+}
+.fontFamily397{
+  font-family: 'QCF2397';
+}
+.fontFamily398{
+  font-family: 'QCF2398';
+}
+.fontFamily399{
+  font-family: 'QCF2399';
+}
+.fontFamily400{
+  font-family: 'QCF2400';
+}
+
+
+.fontFamily402{
+  font-family: 'QCF2402';
+}
+.fontFamily403{
+  font-family: 'QCF2403';
+}
+.fontFamily404{
+  font-family: 'QCF2404';
+}
+.fontFamily405{
+  font-family: 'QCF2405';
+}
+.fontFamily406{
+  font-family: 'QCF2406';
+}
+.fontFamily407{
+  font-family: 'QCF2407';
+}
+.fontFamily408{
+  font-family: 'QCF2408';
+}
+.fontFamily409{
+  font-family: 'QCF2409';
+}
+.fontFamily410{
+  font-family: 'QCF2410';
+}
+.fontFamily411{
+  font-family: 'QCF2411';
+}
+.fontFamily412{
+  font-family: 'QCF2412';
+}
+.fontFamily413{
+  font-family: 'QCF2413';
+}
+.fontFamily414{
+  font-family: 'QCF2414';
+}
+.fontFamily415{
+  font-family: 'QCF2415';
+}
+.fontFamily416{
+  font-family: 'QCF2416';
+}
+.fontFamily417{
+  font-family: 'QCF2417';
+}
+.fontFamily418{
+  font-family: 'QCF2418';
+}
+.fontFamily419{
+  font-family: 'QCF2419';
+}
+.fontFamily420{
+  font-family: 'QCF2420';
+}
+.fontFamily421{
+  font-family: 'QCF2421';
+}
+.fontFamily422{
+  font-family: 'QCF2422';
+}
+.fontFamily423{
+  font-family: 'QCF2423';
+}
+.fontFamily424{
+  font-family: 'QCF2424';
+}
+.fontFamily425{
+  font-family: 'QCF2425';
+}
+.fontFamily426{
+  font-family: 'QCF2426';
+}
+.fontFamily427{
+  font-family: 'QCF2427';
+}
+.fontFamily428{
+  font-family: 'QCF2428';
+}
+.fontFamily429{
+  font-family: 'QCF2429';
+}
+.fontFamily430{
+  font-family: 'QCF2430';
+}
+.fontFamily431{
+  font-family: 'QCF2431';
+}
+.fontFamily432{
+  font-family: 'QCF2432';
+}
+.fontFamily433{
+  font-family: 'QCF2433';
+}
+.fontFamily434{
+  font-family: 'QCF2434';
+}
+.fontFamily435{
+  font-family: 'QCF2435';
+}
+.fontFamily436{
+  font-family: 'QCF2436';
+}
+.fontFamily437{
+  font-family: 'QCF2437';
+}
+.fontFamily438{
+  font-family: 'QCF2438';
+}
+.fontFamily439{
+  font-family: 'QCF2439';
+}
+.fontFamily440{
+  font-family: 'QCF2440';
+}
+.fontFamily441{
+  font-family: 'QCF2441';
+}
+.fontFamily442{
+  font-family: 'QCF2442';
+}
+.fontFamily443{
+  font-family: 'QCF2443';
+}
+.fontFamily444{
+  font-family: 'QCF2444';
+}
+.fontFamily445{
+  font-family: 'QCF2445';
+}
+.fontFamily446{
+  font-family: 'QCF2446';
+}
+.fontFamily447{
+  font-family: 'QCF2447';
+}
+.fontFamily448{
+  font-family: 'QCF2448';
+}
+.fontFamily449{
+  font-family: 'QCF2449';
+}
+.fontFamily450{
+  font-family: 'QCF2450';
+}
+.fontFamily451{
+  font-family: 'QCF2451';
+}
+.fontFamily452{
+  font-family: 'QCF2452';
+}
+.fontFamily453{
+  font-family: 'QCF2453';
+}
+.fontFamily454{
+  font-family: 'QCF2454';
+}
+.fontFamily455{
+  font-family: 'QCF2455';
+}
+.fontFamily456{
+  font-family: 'QCF2456';
+}
+.fontFamily457{
+  font-family: 'QCF2457';
+}
+.fontFamily458{
+  font-family: 'QCF2458';
+}
+.fontFamily459{
+  font-family: 'QCF2459';
+}
+.fontFamily460{
+  font-family: 'QCF2460';
+}
+.fontFamily461{
+  font-family: 'QCF2461';
+}
+.fontFamily462{
+  font-family: 'QCF2462';
+}
+.fontFamily463{
+  font-family: 'QCF2463';
+}
+.fontFamily464{
+  font-family: 'QCF2464';
+}
+.fontFamily465{
+  font-family: 'QCF2465';
+}
+.fontFamily466{
+  font-family: 'QCF2466';
+}
+.fontFamily467{
+  font-family: 'QCF2467';
+}
+.fontFamily468{
+  font-family: 'QCF2468';
+}
+.fontFamily469{
+  font-family: 'QCF2469';
+}
+.fontFamily470{
+  font-family: 'QCF2470';
+}
+.fontFamily471{
+  font-family: 'QCF2471';
+}
+.fontFamily472{
+  font-family: 'QCF2472';
+}
+.fontFamily473{
+  font-family: 'QCF2473';
+}
+.fontFamily474{
+  font-family: 'QCF2474';
+}
+.fontFamily475{
+  font-family: 'QCF2475';
+}
+.fontFamily476{
+  font-family: 'QCF2476';
+}
+.fontFamily477{
+  font-family: 'QCF2477';
+}
+.fontFamily478{
+  font-family: 'QCF2478';
+}
+.fontFamily479{
+  font-family: 'QCF2479';
+}
+.fontFamily480{
+  font-family: 'QCF2480';
+}
+.fontFamily481{
+  font-family: 'QCF2481';
+}
+.fontFamily482{
+  font-family: 'QCF2482';
+}
+.fontFamily483{
+  font-family: 'QCF2483';
+}
+.fontFamily484{
+  font-family: 'QCF2484';
+}
+.fontFamily485{
+  font-family: 'QCF2485';
+}
+.fontFamily486{
+  font-family: 'QCF2486';
+}
+.fontFamily487{
+  font-family: 'QCF2487';
+}
+.fontFamily488{
+  font-family: 'QCF2488';
+}
+.fontFamily489{
+  font-family: 'QCF2489';
+}
+.fontFamily490{
+  font-family: 'QCF2490';
+}
+.fontFamily491{
+  font-family: 'QCF2491';
+}
+.fontFamily492{
+  font-family: 'QCF2492';
+}
+.fontFamily493{
+  font-family: 'QCF2493';
+}
+.fontFamily494{
+  font-family: 'QCF2494';
+}
+.fontFamily495{
+  font-family: 'QCF2495';
+}
+.fontFamily496{
+  font-family: 'QCF2496';
+}
+.fontFamily497{
+  font-family: 'QCF2497';
+}
+.fontFamily498{
+  font-family: 'QCF2498';
+}
+.fontFamily499{
+  font-family: 'QCF2499';
+}
+
+
+.fontFamily501{
+  font-family: 'QCF2501';
+}
+.fontFamily502{
+  font-family: 'QCF2502';
+}
+.fontFamily503{
+  font-family: 'QCF2503';
+}
+.fontFamily504{
+  font-family: 'QCF2504';
+}
+.fontFamily505{
+  font-family: 'QCF2505';
+}
+.fontFamily506{
+  font-family: 'QCF2506';
+}
+.fontFamily507{
+  font-family: 'QCF2507';
+}
+.fontFamily507{
+  font-family: 'QCF2507';
+}
+.fontFamily508{
+  font-family: 'QCF2508';
+}
+.fontFamily509{
+  font-family: 'QCF2509';
+}
+.fontFamily510{
+  font-family: 'QCF2510';
+}
+.fontFamily511{
+  font-family: 'QCF2511';
+}
+.fontFamily512{
+  font-family: 'QCF2512';
+}
+.fontFamily513{
+  font-family: 'QCF2513';
+}
+.fontFamily514{
+  font-family: 'QCF2514';
+}
+.fontFamily515{
+  font-family: 'QCF2515';
+}
+.fontFamily516{
+  font-family: 'QCF2516';
+}
+.fontFamily517{
+  font-family: 'QCF2517';
+}
+.fontFamily518{
+  font-family: 'QCF2518';
+}
+.fontFamily519{
+  font-family: 'QCF2519';
+}
+.fontFamily520{
+  font-family: 'QCF2520';
+}
+.fontFamily521{
+  font-family: 'QCF2521';
+}
+.fontFamily522{
+  font-family: 'QCF2522';
+}
+.fontFamily523{
+  font-family: 'QCF2523';
+}
+.fontFamily524{
+  font-family: 'QCF2524';
+}
+.fontFamily525{
+  font-family: 'QCF2525';
+}
+.fontFamily526{
+  font-family: 'QCF2526';
+}
+.fontFamily527{
+  font-family: 'QCF2527';
+}
+.fontFamily528{
+  font-family: 'QCF2528';
+}
+.fontFamily529{
+  font-family: 'QCF2529';
+}
+.fontFamily530{
+  font-family: 'QCF2530';
+}
+.fontFamily531{
+  font-family: 'QCF2531';
+}
+.fontFamily532{
+  font-family: 'QCF2532';
+}
+.fontFamily533{
+  font-family: 'QCF2533';
+}
+.fontFamily534{
+  font-family: 'QCF2534';
+}
+.fontFamily535{
+  font-family: 'QCF2535';
+}
+.fontFamily536{
+  font-family: 'QCF2536';
+}
+.fontFamily537{
+  font-family: 'QCF2537';
+}
+.fontFamily538{
+  font-family: 'QCF2538';
+}
+.fontFamily539{
+  font-family: 'QCF2539';
+}
+.fontFamily540{
+  font-family: 'QCF2540';
+}
+.fontFamily541{
+  font-family: 'QCF2541';
+}
+.fontFamily542{
+  font-family: 'QCF2542';
+}
+.fontFamily543{
+  font-family: 'QCF2543';
+}
+.fontFamily544{
+  font-family: 'QCF2544';
+}
+.fontFamily545{
+  font-family: 'QCF2545';
+}
+.fontFamily546{
+  font-family: 'QCF2546';
+}
+.fontFamily547{
+  font-family: 'QCF2547';
+}
+.fontFamily548{
+  font-family: 'QCF2548';
+}
+.fontFamily549{
+  font-family: 'QCF2549';
+}
+.fontFamily550{
+  font-family: 'QCF2550';
+}
+.fontFamily551{
+  font-family: 'QCF2551';
+}
+.fontFamily552{
+  font-family: 'QCF2552';
+}
+.fontFamily553{
+  font-family: 'QCF2553';
+}
+.fontFamily554{
+  font-family: 'QCF2554';
+}
+.fontFamily555{
+  font-family: 'QCF2555';
+}
+.fontFamily556{
+  font-family: 'QCF2556';
+}
+.fontFamily557{
+  font-family: 'QCF2557';
+}
+.fontFamily558{
+  font-family: 'QCF2558';
+}
+.fontFamily559{
+  font-family: 'QCF2559';
+}
+.fontFamily560{
+  font-family: 'QCF2560';
+}
+.fontFamily561{
+  font-family: 'QCF2561';
+}
+.fontFamily562{
+  font-family: 'QCF2562';
+}
+.fontFamily563{
+  font-family: 'QCF2563';
+}
+.fontFamily564{
+  font-family: 'QCF2564';
+}
+.fontFamily565{
+  font-family: 'QCF2565';
+}
+.fontFamily566{
+  font-family: 'QCF2566';
+}
+.fontFamily567{
+  font-family: 'QCF2567';
+}
+.fontFamily567{
+  font-family: 'QCF2567';
+}
+.fontFamily568{
+  font-family: 'QCF2568';
+}
+.fontFamily569{
+  font-family: 'QCF2569';
+}
+.fontFamily570{
+  font-family: 'QCF2570';
+}
+.fontFamily571{
+  font-family: 'QCF2571';
+}
+.fontFamily572{
+  font-family: 'QCF2572';
+}
+.fontFamily573{
+  font-family: 'QCF2573';
+}
+.fontFamily574{
+  font-family: 'QCF2574';
+}
+.fontFamily575{
+  font-family: 'QCF2575';
+}
+.fontFamily576{
+  font-family: 'QCF2576';
+}
+.fontFamily577{
+  font-family: 'QCF2577';
+}
+.fontFamily578{
+  font-family: 'QCF2578';
+}
+.fontFamily579{
+  font-family: 'QCF2579';
+}
+.fontFamily580{
+  font-family: 'QCF2580';
+}
+.fontFamily581{
+  font-family: 'QCF2581';
+}
+.fontFamily582{
+  font-family: 'QCF2582';
+}
+.fontFamily583{
+  font-family: 'QCF2583';
+}
+.fontFamily584{
+  font-family: 'QCF2584';
+}
+.fontFamily585{
+  font-family: 'QCF2585';
+}
+.fontFamily586{
+  font-family: 'QCF2586';
+}
+.fontFamily587{
+  font-family: 'QCF2587';
+}
+.fontFamily588{
+  font-family: 'QCF2588';
+}
+.fontFamily589{
+  font-family: 'QCF2589';
+}
+.fontFamily590{
+  font-family: 'QCF2590';
+}
+.fontFamily591{
+  font-family: 'QCF2591';
+}
+.fontFamily592{
+  font-family: 'QCF2592';
+}
+.fontFamily593{
+  font-family: 'QCF2593';
+}
+.fontFamily594{
+  font-family: 'QCF2594';
+}
+.fontFamily595{
+  font-family: 'QCF2595';
+}
+.fontFamily596{
+  font-family: 'QCF2596';
+}
+.fontFamily597{
+  font-family: 'QCF2597';
+}
+.fontFamily598{
+  font-family: 'QCF2598';
+}
+.fontFamily599{
+  font-family: 'QCF2599';
+}
+.fontFamily600{
+  font-family: 'QCF2600';
+}
+.fontFamily601{
+  font-family: 'QCF2601';
+}
+.fontFamily602{
+  font-family: 'QCF2602';
+}
+.fontFamily603{
+  font-family: 'QCF2603';
+}
+.fontFamily604{
+  font-family: 'QCF2604';
+}
+
+
+
+.numberFont {
+  /* font-family: 'Arial Black'; */
+  font-family: 'Shonar Bangla';
+  font-weight: bold;
+  /* font-size: 18px; */
+}
+
+.suraTitles {
+  text-align: center;
+  margin: 5px 0px;
+  padding: 5px 0px;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
+
+.surahName {
+  font-family: 'arab quran islamic 140';
+  font-size: 50px;
+  /* padding-bottom: 10px; */
+}
+
+.one {
+  display: grid;
+  grid-template-rows: auto auto;
+}
+
+.two {
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-content: space-between;
+  font-size: 22px;
+  margin-top: 15px;
+}
+.bold {
+  font-weight: bold;
+}
+
+.small {
+  font-size: 20px;
+}
+
+.itemMiddle {
+  margin-top: 150px;
+}
+
+.ayatDiv {
+  color: #272727;
+  /* margin-top: 10px; */
+  /* margin-bottom: 10px; */
+  /* border-bottom: 0.1rem solid #bcbcbc6f; */
+}
+
+.ayat {
+  font-weight: 500;
+  /* color: rgb(154, 32, 1); */
+  font-size: 34px;
+  line-height: 60px;
+  margin: 5px 0px;
+  word-spacing: -5px;
+  white-space: normal;
+}
+.anubad {
+  font-family: 'Shonar Bangla';
+  font-size: 18px;
+  color: rgb(173, 173, 173);
+  line-height: 24px;
+}
+
+/* Quran Front page  */
+.firstPage {
+  text-align: center;
+  padding-top: 10%;
+}
+
+.middle {
+  width: 100%;
+  height: 100vh;
+}
+.wd {
+  width: 40rem;
+}
+
+/* surah Title */
+
+.surah_name {
+  font-family: 'arab quran islamic 140';
+  font-size: 50px;
+  padding-bottom: 2px;
+  border-bottom: 1px solid gray;
+}
+
+.mainTitle {
+  text-align: center;
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 10px;
+}
+
+.suraTitle {
+  font-size: 20px;
+  border: 1px solid rgba(0, 0, 0, 0.464);
+  padding: 10px;
+  display: grid;
+  border-radius: 5px;
+  grid-template-columns: auto auto;
+  /* justify-content: center; */
+  justify-items: center;
+  align-items: center;
+  position: relative;
+}
+
+.relative {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  background-color: rgba(128, 128, 128, 0.45);
+  width: 40px;
+  height: 30px;
+  color: #fff;
+  border-radius: 8px;
+}
+.myWidth {
+  width: 11rem;
+  padding: 3px;
+  border: 1px solid rgba(128, 128, 128, 0.312);
+  border-radius: 10px;
+}
+
+.paddings {
+  padding-right: 100px;
+}
